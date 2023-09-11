@@ -2,3 +2,6 @@ hello welcome to hyd
 my name is b udayasudha
 im learning aws with devops
 im in hyderabad
+my father name is bpsrayudu
+my mother name is aruna
+
